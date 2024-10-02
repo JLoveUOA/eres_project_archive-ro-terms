@@ -1,0 +1,15 @@
+term,type,label,description,domain,range
+Project,Class,project,"“A single Research Project, extended from https://schema.org/Project”",,
+project,Property,project,“The research project associated with this dataset”,Dataset,Project
+service,Property,service,"“the id of a virtual machine or storage service associated with this project""",Project,Text
+dropbox,Property,dropbox,“the ID of a storage DropBox linked to this project”,Project,Text
+designation,Property,designation,“The sensitivity designation of the data in this project”,Project,Text
+requirements,Property,requirements,"“Free-text requirements for this projects, e.g. requires human ethics approval”",Project,Text
+endDate,Property,endDate,“The date this project ends”,Project,Date
+startDate,Property,startDate,“The date this project was started”,Project,Date
+projectOwner,Property,projectOwner,“The Owner and primary contact for this project (usually PI)”,Project,Person
+dataOwner,Property,dataOwner,“the Owner of the data in this project”,Project,Person
+dataContact,Property,dataContact,"“A contact for data contained in this project""",Project,Person
+researchDrive,Property,researchDrive,“the research drive of origin for this data”,Project,Text
+dataClassification,Property,dataClassification,"“The classification of the data for research data retention and information security.  MUST be ONE of [""Public"", ""Internal"", ""Sensitive"", or ""Restricted""]. Default ""Sensitive"".",Dataset,Text
+division,Property,division,“the division of the school that owns this project”,Project,Text

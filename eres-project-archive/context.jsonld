@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "service": "https://w3id.org/ro/terms/eres-project-archive#service",
+        "dropbox": "https://w3id.org/ro/terms/eres-project-archive#dropbox",
+        "designation": "https://w3id.org/ro/terms/eres-project-archive#designation",
+        "requirements": "https://w3id.org/ro/terms/eres-project-archive#requirements",
+        "endDate": "https://w3id.org/ro/terms/eres-project-archive#endDate",
+        "startDate": "https://w3id.org/ro/terms/eres-project-archive#startDate",
+        "projectOwner": "https://w3id.org/ro/terms/eres-project-archive#projectOwner",
+        "dataOwner": "https://w3id.org/ro/terms/eres-project-archive#dataOwner",
+        "dataContact": "https://w3id.org/ro/terms/eres-project-archive#dataContact",
+        "researchDrive": "https://w3id.org/ro/terms/eres-project-archive#researchDrive",
+        "dataClassification": "https://w3id.org/ro/terms/eres-project-archive#dataClassification",
+        "division": "https://w3id.org/ro/terms/eres-project-archive#division"
+    }
+}
