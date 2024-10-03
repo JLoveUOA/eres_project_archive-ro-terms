@@ -11,6 +11,10 @@
         "dataContact": "https://w3id.org/ro/terms/eres-project-archive#dataContact",
         "researchDrive": "https://w3id.org/ro/terms/eres-project-archive#researchDrive",
         "dataClassification": "https://w3id.org/ro/terms/eres-project-archive#dataClassification",
-        "division": "https://w3id.org/ro/terms/eres-project-archive#division"
+        "Public": "https://w3id.org/ro/terms/eres-project-archive#Public",
+        "Internal": "https://w3id.org/ro/terms/eres-project-archive#Internal",
+        "Sensitive": "https://w3id.org/ro/terms/eres-project-archive#Sensitive",
+        "Restricted": "https://w3id.org/ro/terms/eres-project-archive#Restricted"
+
     }
 }
